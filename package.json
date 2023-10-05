@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://github.com/DSVAngel/Portafolio-JS-codespace",
+  "homepage": "https://dsvangel.github.io/Portafolio-JS-codespace/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://DSVAngel.github.io/Portafolio-JS-codespace'",
+    "build-gh": "parcel build --public-url 'https://dsvangel.github.io/Portafolio-JS-codespace/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
