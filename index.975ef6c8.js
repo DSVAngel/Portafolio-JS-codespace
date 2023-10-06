@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "",
     medium: "",
     twitter: "",
-    youTube: "Code"
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
